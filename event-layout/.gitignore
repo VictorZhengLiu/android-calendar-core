@@ -1,0 +1,18 @@
+# 构建产物
+build/
+target/
+*.class
+
+# 测试依赖（首次运行 run-tests.sh 会自动下载）
+lib/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# macOS
+.DS_Store
